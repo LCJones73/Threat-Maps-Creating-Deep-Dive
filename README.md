@@ -3,7 +3,7 @@
 
 # Table of Contents
 
-- [📍 Azure Threat Map Creation](#📍-Azure-Threat-Map-Creation)
+- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
 - [Breaking Down the KQL Code](#Breaking-Down-the-KQL-Code)
 - [Azure Sentinel Log Analytics](#Azure-Sentinel-Log-Analytics)
 - [Accessing Saved Threat Maps](#Accessing-Saved-Threat-Maps)
@@ -22,8 +22,8 @@ Importance and Usefulness of Threat Maps:
 
 ---
 
-## 📍 Azure Threat Map Creation
 ## Azure Threat Map Creation
+
 1. **Log into [Azure Portal](https://portal.azure.com/).**<BR><BR>
 2. **Navigate to Microsoft Sentinel.**<BR>
    ![Step 2 Sentinel](https://github.com/user-attachments/assets/a6a705d1-5389-4bd0-bc47-f83bc6f61606)<BR><BR>
