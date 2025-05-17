@@ -62,7 +62,7 @@ Importance and Usefulness of Threat Maps:
 
 ---
 
-## 🧠 Breaking Down the KQL Code
+## Breaking Down the KQL Code
 
 1. **With the Threat Map open, click `Edit`.**
    ![Step 1 Edit](https://github.com/user-attachments/assets/a0795ac5-c013-4215-93e1-10c314f805a3)<BR><BR>
@@ -77,7 +77,7 @@ Importance and Usefulness of Threat Maps:
 
 ---
 
-## 📊 Azure Sentinel Log Analytics
+## Azure Sentinel Log Analytics
 
 1. **Log into [Azure Portal](https://portal.azure.com/).**
 2. **Navigate to Microsoft Sentinel.**
@@ -92,7 +92,7 @@ Importance and Usefulness of Threat Maps:
 
 ---
 
-## 💾 Accessing Saved Threat Maps
+## Accessing Saved Threat Maps
 
 1. **Follow steps 1–5 from the [Azure Threat Map Creation](#-azure-threat-map-creation) section to navigate to `Workbooks`.**
 2. **Click on `Open`.**
