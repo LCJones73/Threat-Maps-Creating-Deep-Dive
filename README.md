@@ -18,25 +18,39 @@ Importance and Usefulness of Threat Maps:
 ## 📍 Azure Threat Map Creation
 
 1. **Log into [Azure Portal](https://portal.azure.com/).**<BR><BR>
-2. **Navigate to Microsoft Sentinel.**
+2. **Navigate to Microsoft Sentinel.**<BR>
    ![Step 2 Sentinel](https://github.com/user-attachments/assets/a6a705d1-5389-4bd0-bc47-f83bc6f61606)<BR><BR>
-3. **Select your Resource Group** (e.g., `LAW-Cyber-Range`).
+3. **Select your Resource Group** (e.g., `LAW-Cyber-Range`).<BR>
    ![Step 3 LAWCyberRange](https://github.com/user-attachments/assets/3276edc6-0d2b-4353-b1f7-23dd91e40547)<BR><BR>
 4. **Click on Workbooks** in the left-hand menu.<BR>
    ![Step 4 Workbooks](https://github.com/user-attachments/assets/b744233d-1074-4035-a64e-edfc2a877d4f)<BR><BR>
-6. **Click `+ Add Workbook`.**
+5. **Click `+ Add Workbook`.**<BR>
     ![image](https://github.com/user-attachments/assets/aed1a8d3-6cab-4bf1-8247-6c9b08d53596)<BR><BR>
-7. **In the new workbook, click `Edit`.**
-10. **For the two panels on the right:**
+6. **In the new workbook, click `Edit`.**<BR>
+   ![Step 6 Edit](https://github.com/user-attachments/assets/fffc152a-c85a-47b8-9564-df8001c5ff68)<BR><BR>
+7. **For the two panels on the right:**
    - Click the **ellipsis (`...`)**.
-   - Select **Remove**.
-11. **Click `+ Add` and choose `Add query`.**
-12. **Click on `Advanced Editor`.**
-13. **Paste your KQL code into the editor.**
-14. **Click `Done Editing` at the bottom left.** Your Threat Map is now created!
-15. **To save:**
+   - Select **Remove**.<BR>
+   ![Step 7 Remove](https://github.com/user-attachments/assets/3c6150eb-3312-400a-9ffe-1d277a03f89b)<BR><BR>
+8.    **Click `+ Add` and choose `Add query`.**<BR>
+  ![Step 8 Add   Add Query](https://github.com/user-attachments/assets/59d8549c-a6ab-4cb4-b715-aa8071cbc391)<BR><BR>
+9. **Click on `Advanced Editor`.**<BR>
+    ![Step 9 Advanced Editor](https://github.com/user-attachments/assets/2899f7fd-1210-47e4-97da-a2f5f1847be4)<BR><BR>
+10. **Paste your KQL code into the editor.**<BR>
+    ![Step 9 5 KQL Code](https://github.com/user-attachments/assets/15f98f99-c95e-42b4-a848-46e0dfcafc72)<BR><BR>
+    ![Step 10 KQL Code Sample](https://github.com/user-attachments/assets/334c8bee-b1c4-4310-ba98-3ad4a9f12206)<BR><BR>
+11. **Click `Done Editing` at the bottom left.** Your Threat Map is now created!<BR>
+    ![Step 11 Done Editing](https://github.com/user-attachments/assets/c9ab3840-8b8a-474c-b72f-9db6df9e9150)<BR><BR>
+    ![Step 12 Threat Map](https://github.com/user-attachments/assets/bd41cee1-5072-476e-8641-a4b7b93ec6fa)<BR><BR>
+12. **To save:**
     - Click the **Disk** icon.
-    - Choose **`Save As`** to store your Threat Map with log data results.
+      ![Step 13 Save As](https://github.com/user-attachments/assets/c9aaddab-ca6e-4ff5-b513-8adc09e40952)<BR><BR>
+13. **To save:**
+    - Choose **`Save As`** to store your Threat Map with log data results.<BR>
+      ![Step 13 5 Save As Menu](https://github.com/user-attachments/assets/7ead0f34-939d-46c9-a042-863276b7cb7f)<BR><BR>
+14. Now your Threat Map is saved.
+    - Further down are the instructions on how to access saved Threat Maps.
+
 
 ---
 
