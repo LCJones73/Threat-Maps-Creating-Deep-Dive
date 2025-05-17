@@ -1,6 +1,14 @@
 # Threat-Maps-Creating-Deep-Dive
 ### A deep dive into creating Threat Maps, they're importance and usefulness.
 
+# Table of Contents
+
+- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
+- [Breaking Down KQL Code](path/to/file.md#breaking-down-kql-code)
+- [Breaking Down the KQL Code](#Breaking-Down-the-KQL-Code)
+- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
+- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
+
 # 🛡️ Threat Map Step-by-Step Guide
 
 Importance and Usefulness of Threat Maps:
@@ -16,7 +24,7 @@ Importance and Usefulness of Threat Maps:
 ---
 
 ## 📍 Azure Threat Map Creation
-
+## Azure Threat Map Creation
 1. **Log into [Azure Portal](https://portal.azure.com/).**<BR><BR>
 2. **Navigate to Microsoft Sentinel.**<BR>
    ![Step 2 Sentinel](https://github.com/user-attachments/assets/a6a705d1-5389-4bd0-bc47-f83bc6f61606)<BR><BR>
