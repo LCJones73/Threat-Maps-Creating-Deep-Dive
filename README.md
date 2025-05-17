@@ -3,7 +3,7 @@
 
 # Table of Contents
 
-- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
+- [📍 Azure Threat Map Creation](#📍-Azure-Threat-Map-Creation)
 - [Breaking Down the KQL Code](#Breaking-Down-the-KQL-Code)
 - [Azure Sentinel Log Analytics](#Azure-Sentinel-Log-Analytics)
 - [Accessing Saved Threat Maps](#Accessing-Saved-Threat-Maps)
