@@ -95,8 +95,10 @@ Importance and Usefulness of Threat Maps:
 ## Accessing Saved Threat Maps
 
 1. **Follow steps 1–5 from the [Azure Threat Map Creation](#-azure-threat-map-creation) section to navigate to `Workbooks`.**
-2. **Click on `Open`.**
-3. **Locate and click on your saved workbook to view the results.**
+2. **Click on `Open`.**<BR>
+   ![Step 2 Open](https://github.com/user-attachments/assets/3df122e1-6fab-43df-a69b-e97c28686c7f)<BR><BR>
+3. **Locate and click on your saved workbook to view the results.**<BR>
+   ![Step 3 Your Saved Workbook](https://github.com/user-attachments/assets/f3c413c8-8b03-46d0-abe3-2bedd513e041)<BR><BR>
 
 ---
 > [!IMPORTANT]
