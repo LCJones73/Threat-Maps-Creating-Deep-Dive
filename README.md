@@ -58,10 +58,15 @@ Importance and Usefulness of Threat Maps:
 ## 🧠 Breaking Down the KQL Code
 
 1. **With the Threat Map open, click `Edit`.**
-2. **Under the map, on the bottom right, click `Edit` again.**
-3. **Copy the Log Analytics KQL Code displayed.**
+   ![Step 1 Edit](https://github.com/user-attachments/assets/a0795ac5-c013-4215-93e1-10c314f805a3)<BR><BR>
+3. **Under the map, on the bottom right, click `Edit` again.**<BR>
+   ![Step 2 Edit](https://github.com/user-attachments/assets/a6afd16c-b81d-417c-b0c8-fbd35327e4fe)<BR><BR>
+5. **Copy the Log Analytics KQL Code displayed.**<BR>
+   ![Step 3 KQL Code](https://github.com/user-attachments/assets/c2838f53-1b75-4723-bc47-cd97edcdcf2a)<BR><BR>
 > [!TIP]
 >  *(Optional)* **Click on `Map Settings`** to customize map functionalities, such as color schemes and data displays.
+  ![Step 4 Map Settings](https://github.com/user-attachments/assets/eb008a53-6b3b-4c41-87fc-0440954020e3)<BR><BR>
+
 
 ---
 
