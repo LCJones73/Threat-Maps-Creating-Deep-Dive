@@ -38,7 +38,8 @@ Importance and Usefulness of Threat Maps:
     ![Step 9 Advanced Editor](https://github.com/user-attachments/assets/2899f7fd-1210-47e4-97da-a2f5f1847be4)<BR><BR>
 10. **Paste your KQL code into the editor.**<BR>
     ![Step 9 5 KQL Code](https://github.com/user-attachments/assets/15f98f99-c95e-42b4-a848-46e0dfcafc72)<BR><BR>
-    ![Step 10 KQL Code Sample](https://github.com/user-attachments/assets/334c8bee-b1c4-4310-ba98-3ad4a9f12206)<BR><BR>
+    Full code used below:
+    ![image](https://github.com/user-attachments/assets/340053f4-9e99-4184-8b58-8826241d904f)<BR><BR>
 11. **Click `Done Editing` at the bottom left.** Your Threat Map is now created!<BR>
     ![Step 11 Done Editing](https://github.com/user-attachments/assets/c9ab3840-8b8a-474c-b72f-9db6df9e9150)<BR><BR>
     ![Step 12 Threat Map](https://github.com/user-attachments/assets/bd41cee1-5072-476e-8641-a4b7b93ec6fa)<BR><BR>
