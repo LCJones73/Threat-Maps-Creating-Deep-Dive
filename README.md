@@ -5,6 +5,8 @@
 
 > [!NOTE]
 > This guide assumes you have an existing Resource Group in Microsoft Sentinel. For this tutorial, I'll use "_LAW-Cyber-Range_" as an example.
+> 
+> If you prefer watching a video tutorial, I created one: "_Link Coming Soon_"
 
 ---
 
