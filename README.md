@@ -7,6 +7,7 @@
 - [Breaking Down the KQL Code](#Breaking-Down-the-KQL-Code)
 - [Azure Sentinel Log Analytics](#Azure-Sentinel-Log-Analytics)
 - [Accessing Saved Threat Maps](#Accessing-Saved-Threat-Maps)
+- [Conclusion:](#Conclusion:)
 
 # 🛡️ Threat Map Step-by-Step Guide
 
@@ -110,5 +111,6 @@ Importance and Usefulness of Threat Maps:
 
 ---
 > [!IMPORTANT]
-> ### Conclusion: Threat Maps in Microsoft Sentinel are vital for visualizing and understanding the complex landscape of cyber threats within your organization. They enhance situational awareness, integrate with established frameworks like MITRE ATT&CK®, and support proactive threat hunting. By leveraging workbooks, custom mapping, and _"Structured Threat Information Expression"_ (STIX) objects, you can create comprehensive threat maps that inform and strengthen your security posture.
+> ### Conclusion:
+> Threat Maps in Microsoft Sentinel are vital for visualizing and understanding the complex landscape of cyber threats within your organization. They enhance situational awareness, integrate with established frameworks like MITRE ATT&CK®, and support proactive threat hunting. By leveraging workbooks, custom mapping, and _"Structured Threat Information Expression"_ (STIX) objects, you can create comprehensive threat maps that inform and strengthen your security posture.
 ---
