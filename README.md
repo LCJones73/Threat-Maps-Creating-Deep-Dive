@@ -4,10 +4,9 @@
 # Table of Contents
 
 - [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
-- [Breaking Down KQL Code](path/to/file.md#breaking-down-kql-code)
 - [Breaking Down the KQL Code](#Breaking-Down-the-KQL-Code)
-- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
-- [Azure Threat Map Creation](#Azure-Threat-Map-Creation)
+- [Azure Sentinel Log Analytics](#Azure-Sentinel-Log-Analytics)
+- [Accessing Saved Threat Maps](#Accessing-Saved-Threat-Maps)
 
 # 🛡️ Threat Map Step-by-Step Guide
 
