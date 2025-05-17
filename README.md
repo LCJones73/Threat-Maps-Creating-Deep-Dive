@@ -79,16 +79,24 @@ Importance and Usefulness of Threat Maps:
 
 ## Azure Sentinel Log Analytics
 
-1. **Log into [Azure Portal](https://portal.azure.com/).**
-2. **Navigate to Microsoft Sentinel.**
-3. **Select your Resource Group** (e.g., `LAW-Cyber-Range`).
-4. **Click on `Logs`.**
-   - *If the `Queries hub` screen appears, click the `X` at the top right to close it.*
-5. **On the right side of the screen:**
+1. **Log into [Azure Portal](https://portal.azure.com/).**<BR><BR>
+2. **Navigate to Microsoft Sentinel.**<BR>
+   ![Step 2 Sentinel](https://github.com/user-attachments/assets/0a372fd4-20e0-4722-8477-db0aa5047bc3)<BR><BR>
+3. **Select your Resource Group** (e.g., `LAW-Cyber-Range`).<BR>
+   ![Step 3 LAWCyberRange](https://github.com/user-attachments/assets/ad8b62d9-a657-4c20-af08-d0fc0a0bb823)<BR><BR>
+4. **Click on `Logs`.**<BR>
+   ![Step 4 Logs](https://github.com/user-attachments/assets/615aeba8-4971-4d89-b765-1e6d779b4127)<BR><BR>
+   - *If the `Queries hub` screen appears, click the `X` at the top right to close it.*<BR>
+   ![Step 4 5 Queries Hub](https://github.com/user-attachments/assets/8f7873ab-0aa7-48ad-8661-be78c146ff39)<BR><BR>
+5. **On the right side of the screen:**<BR>
+   ![Step 5 Change Mode](https://github.com/user-attachments/assets/d3b18af8-176f-4ae8-b4a9-245f53ba66d3)<BR><BR>
    - *If it says `Simple Mode`, click the down arrow and switch to `KQL`.*
-   - *You may be prompted to set `KQL Mode` as default. Choose accordingly.*
-6. **Paste the KQL code you copied from the Threat Map Workbook.**
-7. **Analyze the code to understand its components and functionality.**
+   - *You may be prompted to set `KQL Mode` as default. Choose accordingly.*<BR>
+   ![Step 5 5 Default Mode Menu Option](https://github.com/user-attachments/assets/ea896b5f-c876-4a23-bd27-c6cefc7da179)<BR><BR>
+6. **Paste the KQL code you copied from the Threat Map Workbook.**<BR>
+    ![Step 6 KQL Code W_Results](https://github.com/user-attachments/assets/5676076d-70a5-4f1b-87b7-10fc508c351b)<BR><BR>
+7. **Analyze the code to understand its components and functionality.**<BR>
+    ![Step 8 SignIn Logs](https://github.com/user-attachments/assets/e162479c-de58-4c97-a51a-6243ef13252b)<BR><BR>
 
 ---
 
