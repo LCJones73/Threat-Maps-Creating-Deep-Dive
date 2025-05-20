@@ -51,7 +51,8 @@ Importance and Usefulness of Threat Maps:
     ![Step 11 Done Editing](https://github.com/user-attachments/assets/c9ab3840-8b8a-474c-b72f-9db6df9e9150)<BR><BR>
     ![Step 12 Threat Map](https://github.com/user-attachments/assets/bd41cee1-5072-476e-8641-a4b7b93ec6fa)<BR><BR>
 
-   The Threat Map above is showing "Successful Logins" - We will copy code in the "Breaking Down the KQL Code" section and analyze it in the "Azure Sentinel Log Analytics" section. This is so we can better understand how the KQL code in MS Sentinel is finding the data to create the Threat Map.
+   > [!NOTE]
+   > The Threat Map above is showing "Successful Logins" - We will copy code in the "Breaking Down the KQL Code" section and analyze it in the "Azure Sentinel Log Analytics" section. This is so we can better understand how the KQL code in MS Sentinel is finding the data to create the Threat Map.
 
 12. **To save:**
     - Click the **Disk** icon.
