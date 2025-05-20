@@ -50,6 +50,9 @@ Importance and Usefulness of Threat Maps:
 11. **Click `Done Editing` at the bottom left.** Your Threat Map is now created!<BR>
     ![Step 11 Done Editing](https://github.com/user-attachments/assets/c9ab3840-8b8a-474c-b72f-9db6df9e9150)<BR><BR>
     ![Step 12 Threat Map](https://github.com/user-attachments/assets/bd41cee1-5072-476e-8641-a4b7b93ec6fa)<BR><BR>
+
+   The Threat Map above is showing "Successful Logins" - We will copy code in the "Breaking Down the KQL Code" section and analyze it in the "Azure Sentinel Log Analytics" section. This is so we can better understand how the KQL code in MS Sentinel is finding the data to create the Threat Map.
+
 12. **To save:**
     - Click the **Disk** icon.
       ![Step 13 Save As](https://github.com/user-attachments/assets/c9aaddab-ca6e-4ff5-b513-8adc09e40952)<BR><BR>
@@ -66,6 +69,7 @@ Importance and Usefulness of Threat Maps:
 
 1. **With the Threat Map open, click `Edit`.**
    ![Step 1 Edit](https://github.com/user-attachments/assets/a0795ac5-c013-4215-93e1-10c314f805a3)<BR><BR>
+   
 3. **Under the map, on the bottom right, click `Edit` again.**<BR>
    ![Step 2 Edit](https://github.com/user-attachments/assets/a6afd16c-b81d-417c-b0c8-fbd35327e4fe)<BR><BR>
 5. **Copy the Log Analytics KQL Code displayed.**<BR>
