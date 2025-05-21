@@ -10,6 +10,12 @@
 
 # 🛡️ Threat Map Step-by-Step Guide
 
+> [!NOTE]
+> Keep in mind this 5 Part series explores threat map creation, using JSON and KQL code. You don't need to learn JSON, however, you will want to get familiar with KQL.<BR><BR>
+> If you're looking at getting into Cybersecurity, this is something that will help as you consider being an Analyst or Pentester.<BR><BR>
+> To get started visit [KC7 Cyber](https://kc7cyber.com/) - It has free KQL training through scenarios. To start, try going through their KQL 101.<BR><BR>
+> Also, soon I will have a video discussing KQL, from a beginniners perspective (Coming Soon).<BR>
+
 Importance and Usefulness of Threat Maps:
 1. Ehanced Situational Awareness: Mapping threats to your IT environment allowing you to view potential vulnerabilities and attack vectors.<BR>
 2. Integration with MITRE ATT&CK Framework: Microsoft Sentinel integrates with the MITRE ATT&CK® framework, allowing you to map detected threats and analytics rules.<BR>
